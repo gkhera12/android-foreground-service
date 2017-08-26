@@ -28,7 +28,6 @@ bin/
 gen/
 obj/
 out/
-screenshot*
 
 #intelliJ files
 .gradle/
