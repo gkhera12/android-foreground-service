@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ForegroundServiceExample</string>
+    <string name="launch_activity">Launch</string>
+    <string name="remove_counting">Stop Counting</string>
+</resources>

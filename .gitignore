@@ -1,0 +1,53 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# built application files
+*.apk
+*.ap_
+*.zip
+*.swp
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Store file
+*.DS_Store
+
+# generated files
+bin/
+gen/
+obj/
+out/
+screenshot*
+
+#intelliJ files
+.gradle/
+.idea/
+build/
+*.iws
+*.idea
+*.iml
+import-summary.txt
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Ruby files
+#.irb-history
+
+# SQLite Files
+*.sqlite3
